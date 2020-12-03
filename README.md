@@ -17,6 +17,18 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 
 <br />
+<br />
+
+## - 📫 How to reach me:
+[<img align="left" alt="medaminefh | Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="medaminefh | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="medaminefh | Gmail" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+
+
+[twitter]: https://twitter.com/medaminefh
+[linkedin]: https://www.linkedin.com/in/mohamed-amine-fhal
+[gmail]: fhal.mohamed.amine@gmail.com
+
 <!--
 **medaminefh/medaminefh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -30,12 +42,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## - 📫 How to reach me:
-[<img align="left" alt="medaminefh | Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="medaminefh | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="medaminefh | Gmail" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-
-
-[twitter]: https://twitter.com/medaminefh
-[linkedin]: https://www.linkedin.com/in/mohamed-amine-fhal
-[gmail]: fhal.mohamed.amine@gmail.com
