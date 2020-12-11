@@ -1,4 +1,5 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Mohamed Amine Fhal here!
+## A Self-taught web developer
 # Welcome to my Github account 🤩
 
 ## How to reach Me 👇
