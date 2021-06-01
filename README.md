@@ -1,6 +1,7 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Mohamed Amine Fhal here!
 ## A Self-taught web developer
 # Welcome to my Github account 🤩
+![](https://komarev.com/ghpvc/?username=medaminefh&style=plastic)
 
 ## How to reach Me 👇
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' width="20" height='auto'>][linkedin]
