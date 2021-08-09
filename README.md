@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Med Amine Fh</h1>
-<h3 align="center">A passionate Self-Taught web developer from Tunisia</h3>
+<h3 align="center">A passionate Self-Taught web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=medaminefh&label=Profile%20views&color=0e75b6&style=flat" alt="medaminefh" /> </p>
 
-- 🔭 I’m currently working on **A Django App**
+- 🔭 I’m currently working on **MERN Stack App**
 
 - 🌱 I’m currently learning **Django from The CS50W**
 
@@ -11,9 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://medaminefh.github.io/portfolio](https://medaminefh.github.io/portfolio)
 
-- 💬 Ask me about **React,JS,Python,Flask**
-
-- 📫 How to reach me **fhal.mohamed.amine@gmail.com**
+- 💬 Ask me about **React, JS, Expressjs, Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
