@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
-- 👨‍💻 All of my projects are available at [medaminefh](https://medaminefh.github.io/portfolio)
+- 👨‍💻 All of my projects are available here in my github
 
 - 💬 Ask me about **React, JS, Expressjs, Python**
 
