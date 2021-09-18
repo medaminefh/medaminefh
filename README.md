@@ -15,6 +15,7 @@ Welcome to My space 🌌</h1>
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Host your static website with Github](https://dev.to/medaminefh/how-to-host-your-static-website-with-github-85i)
 - [React Router with Github Pages 💎](https://dev.to/medaminefh/react-router-with-github-pages-40gj)
 <!-- BLOG-POST-LIST:END -->
 
