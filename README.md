@@ -8,6 +8,10 @@ Welcome to My space 🌌</h1>
 
 - 👨‍💻 All of my projects are available here in my github
 
+<img align="right" src="https://user-images.githubusercontent.com/37845480/133883013-e4e71a24-bba5-417d-85ee-691a9cadb754.gif" alt="play chess" />
+
+<img style="width:400px;" align="center" src="https://user-images.githubusercontent.com/37845480/133883263-fa8021f8-b0f9-4f00-bb31-25798ab361f4.jpeg" />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/medaminefh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="medaminefh" height="30" width="40" /></a>
