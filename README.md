@@ -1,5 +1,5 @@
-<h1 align="center">Hi There 👋, This is Med Amine Fh Here
-Welcome to My space 🌌</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=63B4B8&size=30&center=true&width=650&height=60&lines=Hello+There+;Welcome+to+My+Github+Profile)](https://git.io/typing-svg)
+
 <h3 align="center">Interested In web dev 🌐</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=medaminefh&label=Profile%20views&color=0e75b6&style=flat" alt="medaminefh" /> </p>
