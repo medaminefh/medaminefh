@@ -12,6 +12,11 @@ Welcome to My space 🌌</h1>
 
 <img style="width:400px;" align="center" src="https://user-images.githubusercontent.com/37845480/133883263-fa8021f8-b0f9-4f00-bb31-25798ab361f4.jpeg" />
 
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/medaminefh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="medaminefh" height="30" width="40" /></a>
@@ -19,4 +24,3 @@ Welcome to My space 🌌</h1>
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=medaminefh&show_icons=true&locale=en&theme=cobalt" alt="medaminefh" /></p>
-

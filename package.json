@@ -1,0 +1,23 @@
+{
+  "name": "medaminefh",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">Hi There 👋, This is Med Amine Fh Here Welcome to My space 🌌</h1> <h3 align=\"center\">Interested In web dev 🌐</h3>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/medaminefh/medaminefh.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/medaminefh/medaminefh/issues"
+  },
+  "homepage": "https://github.com/medaminefh/medaminefh#readme",
+  "dependencies": {
+    "mustache": "^4.2.0"
+  }
+}
