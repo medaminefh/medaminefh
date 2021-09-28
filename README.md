@@ -19,6 +19,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Protect Your components with React Router](https://dev.to/medaminefh/protect-your-components-with-react-router-4hf7)
 - [How To Host your static website with Github](https://dev.to/medaminefh/how-to-host-your-static-website-with-github-85i)
 - [React Router with Github Pages 💎](https://dev.to/medaminefh/react-router-with-github-pages-40gj)
 <!-- BLOG-POST-LIST:END -->
