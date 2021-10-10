@@ -21,6 +21,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [3 Ways to Add CSS to HTML](https://dev.to/medaminefh/3-ways-to-add-css-to-html-1fad)
 - [Passing Data with React Router using Link](https://dev.to/medaminefh/passing-data-with-react-router-using-link-1h39)
 - [Protect Your Routes in React](https://dev.to/medaminefh/protect-your-components-with-react-router-4hf7)
 - [How To Host your static website with Github](https://dev.to/medaminefh/how-to-host-your-static-website-with-github-85i)
