@@ -6,15 +6,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=medaminefh&label=Profile%20views&color=0e75b6&style=flat" alt="medaminefh" /> </p>
 
-- 💻 I'm currently Learning the **Django** Framework
+- 💻 I'm currently Learning **Docker** <img src="https://i.pinimg.com/originals/f5/5e/80/f55e8059ea945abfd6804b887dd4a0af.gif" width="30px" />
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
-- 👨‍💻 All of my projects are available here in my github
+- 👨‍💻 All of my projects are available here on my github
 
 
-### Computers:
-![ozark](https://user-images.githubusercontent.com/37845480/136686253-365ef1de-89be-4b2a-addf-572bc1afa694.gif)
+![listen to music while working](https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif)
 
 
 
