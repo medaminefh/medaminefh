@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=63B4B8&size=30&center=true&width=650&height=60&lines=Hello+There+;Welcome+to+My+Github+Profile">
-</p>
-
-<h3 align="center">Interested In web dev 🌐</h3>
+<h1 align="center"> < Interested In web dev 🌐 /></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=medaminefh&label=Profile%20views&color=0e75b6&style=flat" alt="medaminefh" /> </p>
 
@@ -12,14 +8,12 @@
 
 - 👨‍💻 All of my projects are available here on my github
 
-
 ![listen to music while working](https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif)
-
-
 
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Passing Components as Props in React](https://dev.to/medaminefh/passing-components-as-props-in-react-36h8)
 - [3 Ways to Add JS to HTML](https://dev.to/medaminefh/3-ways-to-add-js-to-html-2n9l)
 - [3 Ways to Add CSS to HTML](https://dev.to/medaminefh/3-ways-to-add-css-to-html-1fad)
@@ -34,3 +28,5 @@
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=medaminefh&show_icons=true&locale=en&theme=cobalt" alt="medaminefh" /></p>
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=medaminefh&layout=compact&theme=cobalt" /></p>
