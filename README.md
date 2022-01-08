@@ -1,7 +1,7 @@
 <img alt="banner img" align="center" src="./assets/banner.png" />
 
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=medaminefh&label=Profile%20views&color=0e75b6&style=flat" alt="medaminefh" /> </p>
+<p align="left"> <img width="150" src="https://komarev.com/ghpvc/?username=medaminefh&label=Profile%20views&color=0e75b6&style=flat" alt="medaminefh" /> </p>
 
 ### 📕 Latest Blog Posts
 
@@ -20,6 +20,12 @@
 <a href="https://linkedin.com/in/mohamed-amine-fhal" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-amine-fhal" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=medaminefh&show_icons=true&locale=en&theme=cobalt" alt="medaminefh" /></p>
+<br/>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=medaminefh&layout=compact&theme=cobalt" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=medaminefh&show_icons=true&locale=en&theme=cobalt" alt="medaminefh" /></p>
+
+<p align="center"><img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medaminefh&layout=compact&langs_count=9&theme=cobalt" /></p>
+
+---
+
+<p align="center">@medaminefh</p>
