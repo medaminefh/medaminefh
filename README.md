@@ -1,4 +1,4 @@
-<img alt="banner img" align="center" src="./assets/banner.png" />
+<img alt="banner img" align="center" src="./assets/banner.jpg" />
 
 <br>
 <p align="left"> <img width="150" src="https://komarev.com/ghpvc/?username=medaminefh&label=Profile%20views&color=0e75b6&style=flat" alt="medaminefh" /> </p>
