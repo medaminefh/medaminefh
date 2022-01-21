@@ -16,8 +16,5 @@
   "bugs": {
     "url": "https://github.com/medaminefh/medaminefh/issues"
   },
-  "homepage": "https://github.com/medaminefh/medaminefh#readme",
-  "dependencies": {
-    "mustache": "^4.2.0"
-  }
+  "homepage": "https://github.com/medaminefh/medaminefh#readme"
 }
