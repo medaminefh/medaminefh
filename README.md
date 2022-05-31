@@ -10,6 +10,8 @@
 
 Hi 👋, This is Mohamed Amine Fhal, a Self-taught web developer, has experience in [ HTML, CSS, JS, React, Nodejs, Express, MongoDB, Python, Flask, Django ].
 
+Currently learning Vue <img src="./assets/vue_logo.png" alt="Vuejs logo" width="15px" /> and I really like it so far (First impression), And who knows it might be my favorite in soon Future
+
 Actively looking for a Job to expand my Knowledge about Freelancing in the IT field
 
 <hr width="200px" align="right" />
