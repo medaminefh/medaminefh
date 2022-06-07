@@ -28,6 +28,7 @@ Actively looking for a Job to expand my Knowledge about Freelancing in the IT fi
 | My Blogs App |     MERN      |    <a href="https://medaminefh.github.io/blogs/#">DEMO</a> |
 | Tweet clone  | React, Django |    <a href="https://network-cs50w.herokuapp.com"> DEMO</a> |
 | InstaClone   |     MERN      | <a href="https://medaminefh.github.io/instag/#/"> DEMO</a> |
+| Klondike     |     Vue3      | 		<a href="https://klondikevue.netlify.app/"> DEMO</a>    |
 
 </details>
 
