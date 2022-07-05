@@ -25,10 +25,10 @@ Actively looking for a Job to expand my Knowledge about Freelancing in the IT fi
 
 | Project      |     Tech      |                                                       Link |
 | ------------ | :-----------: | ---------------------------------------------------------: |
-| My Blogs App |     MERN      |    <a href="https://medaminefh.github.io/blogs/#">DEMO</a> |
-| Tweet clone  | React, Django |    <a href="https://network-cs50w.herokuapp.com"> DEMO</a> |
-| InstaClone   |     MERN      | <a href="https://medaminefh.github.io/instag/#/"> DEMO</a> |
-| Klondike     |     Vue3      | 		<a href="https://klondikevue.netlify.app/"> DEMO</a>    |
+| [My Blogs App](https://github.com/medaminefh/blogs) |     MERN      |    <a href="https://medaminefh.github.io/blogs/#">DEMO</a> |
+| [Tweet clone](https://github.com/medaminefh/Network-cs50)  | React, Django |    <a href="https://network-cs50w.herokuapp.com"> DEMO</a> |
+| [InstaClone](https://github.com/medaminefh/instag)   |     MERN      | <a href="https://medaminefh.github.io/instag/#/"> DEMO</a> |
+| [Klondike](https://github.com/medaminefh/klondike)     |     Vue3      | 		<a href="https://klondikevue.netlify.app/"> DEMO</a>    |
 
 </details>
 
