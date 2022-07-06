@@ -10,9 +10,7 @@
 
 Hi 👋, This is Mohamed Amine Fhal, a Self-taught web developer, has experience in [ HTML, CSS, JS, React, Nodejs, Express, MongoDB, Python, Flask, Django ].
 
-Currently learning Vue <img src="./assets/vue_logo.png" alt="Vuejs logo" width="15px" /> and I really like it so far (First impression), And who knows it might be my favorite in soon Future
-
-Actively looking for a Job to expand my Knowledge about Freelancing in the IT field
+Currently learning Vue <img src="./assets/vue_logo.png" alt="Vuejs logo" width="15px" height="15px" /> - <img src="./assets/graphql.png" alt="Graphql logo" width="15px" height="15px" /> and Everything related 😁
 
 <hr width="200px" align="right" />
 <br/>
@@ -23,12 +21,12 @@ Actively looking for a Job to expand my Knowledge about Freelancing in the IT fi
 <summary>My Projects</summary>
 <br>
 
-| Project      |     Tech      |                                                       Link |
-| ------------ | :-----------: | ---------------------------------------------------------: |
-| [My Blogs App](https://github.com/medaminefh/blogs) |     MERN      |    <a href="https://medaminefh.github.io/blogs/#">DEMO</a> |
-| [Tweet clone](https://github.com/medaminefh/Network-cs50)  | React, Django |    <a href="https://network-cs50w.herokuapp.com"> DEMO</a> |
-| [InstaClone](https://github.com/medaminefh/instag)   |     MERN      | <a href="https://medaminefh.github.io/instag/#/"> DEMO</a> |
-| [Klondike](https://github.com/medaminefh/klondike)     |     Vue3      | 		<a href="https://klondikevue.netlify.app/"> DEMO</a>    |
+| Project                                                   |     Tech      |                                                       Link |
+| --------------------------------------------------------- | :-----------: | ---------------------------------------------------------: |
+| [My Blogs App](https://github.com/medaminefh/blogs)       |     MERN      |    <a href="https://medaminefh.github.io/blogs/#">DEMO</a> |
+| [Tweet clone](https://github.com/medaminefh/Network-cs50) | React, Django |    <a href="https://network-cs50w.herokuapp.com"> DEMO</a> |
+| [InstaClone](https://github.com/medaminefh/instag)        |     MERN      | <a href="https://medaminefh.github.io/instag/#/"> DEMO</a> |
+| [Klondike](https://github.com/medaminefh/klondike)        |     Vue3      |       <a href="https://klondikevue.netlify.app/"> DEMO</a> |
 
 </details>
 
