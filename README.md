@@ -8,9 +8,15 @@
 <br/>
 <hr width="200px" align="left" />
 
-Hi 👋, This is Mohamed Amine Fhal, a Self-taught web developer, has experience in [ HTML, CSS, JS, React, Nodejs, Express, MongoDB, Python, Flask, Django ].
+<details open>
+<summary>About me!</summary>
+<br />
+Hi 👋, This is Mohamed Amine Fhal, a Self-taught web developer, has experience
+in [ HTML, CSS, JS, React, Nodejs, Express, MongoDB, Python, Flask, Django ].
+Currently learning Vue <img src="./assets/vue_logo.png" alt="Vuejs logo" width="15px" height="15px" /> <img src="./assets/graphql.png" alt="Graphql logo" width="15px" height="15px" />
+and Everything related 😁
 
-Currently learning Vue <img src="./assets/vue_logo.png" alt="Vuejs logo" width="15px" height="15px" /> - <img src="./assets/graphql.png" alt="Graphql logo" width="15px" height="15px" /> and Everything related 😁
+</details>
 
 <hr width="200px" align="right" />
 <br/>
@@ -32,7 +38,7 @@ Currently learning Vue <img src="./assets/vue_logo.png" alt="Vuejs logo" width="
 
 <br />
 
-Top In Tunisia on <a href="https://sololearn.com/" >Sololearn</a> <img src="https://blob.sololearn.com/avatars/sololearn.png" width="20px">
+#2 In Tunisia on <a href="https://sololearn.com/" >Sololearn</a> <img src="https://blob.sololearn.com/avatars/sololearn.png" width="20px">
 
 ### 📕 Check My Latest Blog Posts ⇩⇩⇩
 
@@ -51,9 +57,8 @@ Top In Tunisia on <a href="https://sololearn.com/" >Sololearn</a> <img src="http
 <br>
 <a href="https://twitter.com/medaminefh" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="medaminefh" height="20" width="20" />
 </a>
-<a href="https://linkedin.com/in/mohamed-amine-fhal" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-amine-fhal" height="20" width="20" margin="" /></a>
-
-<a href="mailto:fhal.mohamed.amine@gmail.com" target="_blank">fhal.mohamed.amine@gmail.com
+<a href="https://linkedin.com/in/mohamed-amine-fhal" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-amine-fhal" height="20" width="20" /></a>
+<a href="mailto:fhal.mohamed.amine@gmail.com" target="_blank"><img align="center" alt="Mail logo" src="https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI" height="20" width="20" />
 </a>
 
 <br/>
