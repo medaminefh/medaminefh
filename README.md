@@ -63,9 +63,11 @@ and Everything related 😁
 
 <br/>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=medaminefh&show_icons=true&locale=en&theme=cobalt" alt="medaminefh" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=medaminefh&show_icons=true&locale=en&theme=cobalt" alt="medaminefh's github stats" /></p>
 
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=medaminefh&layout=compact&langs_count=9&theme=cobalt" /></p>
+<p align="center"><img align="center" src="https://streak-stats.demolab.com?user=medaminefh&theme=cobalt" alt="GitHub Streak" /></p>
+
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=medaminefh&layout=compact&langs_count=9&theme=cobalt" alt="medaminefh's most used languages"/></p>
 
 ---
 
