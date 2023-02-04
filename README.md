@@ -1,7 +1,7 @@
 <br/>
 
 <details>
-<summary>Profile Views 👀 </summary>
+<summary>Profile Views 👀</summary>
 <br>
 <p > <img src="https://komarev.com/ghpvc/?username=medaminefh&label=Profile%20views&color=0e75b6&style=flat" alt="medaminefh" /> </p>
 </details>
@@ -12,9 +12,7 @@
 <summary>About me!</summary>
 <br />
 Hi 👋, This is Mohamed Amine Fhal, a Self-taught web developer, has experience
-in [ HTML, CSS, JS, React, Nodejs, Express, MongoDB, Python, Flask, Django ].
-Currently learning Vue <img src="./assets/vue_logo.png" alt="Vuejs logo" width="15px" height="15px" /> <img src="./assets/graphql.png" alt="Graphql logo" width="15px" height="15px" />
-and Everything related 😁
+in [ HTML, CSS, JS, TS, React, Vuejs, Nodejs, Express, GraphQl, MongoDB, Python, Flask, Django ] & many more!
 
 </details>
 
@@ -30,7 +28,7 @@ and Everything related 😁
 | Project                                                   |     Tech      |                                                       Link |
 | --------------------------------------------------------- | :-----------: | ---------------------------------------------------------: |
 | [My Blogs App](https://github.com/medaminefh/blogs)       |     MERN      |    <a href="https://medaminefh.github.io/blogs/#">DEMO</a> |
-| [Tweet clone](https://github.com/medaminefh/Network-cs50) | React, Django |    <a href="https://network-cs50w.herokuapp.com"> DEMO</a> |
+| [Tweet clone](https://github.com/medaminefh/Network-cs50) | React, Django |     <a href="https://network-gxlu.onrender.com/"> DEMO</a> |
 | [InstaClone](https://github.com/medaminefh/instag)        |     MERN      | <a href="https://medaminefh.github.io/instag/#/"> DEMO</a> |
 | [Klondike](https://github.com/medaminefh/klondike)        |     Vue3      |       <a href="https://klondikevue.netlify.app/"> DEMO</a> |
 
