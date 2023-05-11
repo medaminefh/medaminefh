@@ -11,7 +11,7 @@
 <details open>
 <summary>About me!</summary>
 <br />
-Hi 👋, This is Mohamed Amine Fhal, a Self-taught web developer, has experience
+Hi 👋, This is Mohamed Amine, a Self-taught software developer, has experience
 in [ HTML, CSS, JS, TS, React, Vuejs, Nodejs, Express, GraphQl, MongoDB, Python, Flask, Django ] & many more!
 
 </details>
@@ -35,6 +35,8 @@ in [ HTML, CSS, JS, TS, React, Vuejs, Nodejs, Express, GraphQl, MongoDB, Python,
 </details>
 
 <br />
+
+Q: If you want to learn something, teach it 👌
 
 #2 In Tunisia on <a href="https://sololearn.com/" >Sololearn</a> <img src="https://blob.sololearn.com/avatars/sololearn.png" width="20px">
 
