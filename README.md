@@ -25,12 +25,13 @@ in [ HTML, CSS, JS, TS, React, Vuejs, Nodejs, Express, GraphQl, MongoDB, Python,
 <summary>My Projects</summary>
 <br>
 
-| Project                                                   |     Tech      |                                                       Link |
-| --------------------------------------------------------- | :-----------: | ---------------------------------------------------------: |
-| [My Blogs App](https://github.com/medaminefh/blogs)       |     MERN      |    <a href="https://medaminefh.github.io/blogs/#">DEMO</a> |
-| [Tweet clone](https://github.com/medaminefh/Network-cs50) | React, Django |     <a href="https://network-gxlu.onrender.com/"> DEMO</a> |
-| [InstaClone](https://github.com/medaminefh/instag)        |     MERN      | <a href="https://medaminefh.github.io/instag/#/"> DEMO</a> |
-| [Klondike](https://github.com/medaminefh/klondike)        |     Vue3      |       <a href="https://klondikevue.netlify.app/"> DEMO</a> |
+| Project                                                    |     Tech      |                                                           Link |
+| ---------------------------------------------------------- | :-----------: | -------------------------------------------------------------: |
+| [Trello clone](https://github.com/medaminefh/Trello-clone) |     Nuxt3     | <a href="https://medaminefh.github.io/Trello-clone/#">DEMO</a> |
+| [My Blogs App](https://github.com/medaminefh/blogs)        |     MERN      |        <a href="https://medaminefh.github.io/blogs/#">DEMO</a> |
+| [Tweet clone](https://github.com/medaminefh/Network-cs50)  | React, Django |         <a href="https://network-gxlu.onrender.com/"> DEMO</a> |
+| [InstaClone](https://github.com/medaminefh/instag)         |     MERN      |     <a href="https://medaminefh.github.io/instag/#/"> DEMO</a> |
+| [Klondike](https://github.com/medaminefh/klondike)         |     Vue3      |           <a href="https://klondikevue.netlify.app/"> DEMO</a> |
 
 </details>
 
