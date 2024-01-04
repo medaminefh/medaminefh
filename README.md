@@ -39,8 +39,6 @@ in [ HTML, CSS, JS, TS, React, Vuejs, Nodejs, Express, GraphQl, MongoDB, Python,
 
 Q: If you want to learn something, teach it 👌
 
-#2 In Tunisia on <a href="https://sololearn.com/" >Sololearn</a> <img src="https://blob.sololearn.com/avatars/sololearn.png" width="20px">
-
 ### 📕 Check My Latest Blog Posts ⇩⇩⇩
 
 <!-- BLOG-POST-LIST:START -->
